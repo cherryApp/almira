@@ -6,4 +6,3 @@ Test repo for learning git.
 * Adopt a dog
 * Plant a tree
 * Change the world
-* Drink beer
